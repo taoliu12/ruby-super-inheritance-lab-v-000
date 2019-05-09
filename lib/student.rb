@@ -5,6 +5,7 @@ def test
   binding.pry
   array = [1,2]
   array.each do |e|
+    binding.pry
     if e == 1
       a = 'b'
       binding.pry
