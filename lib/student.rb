@@ -1,6 +1,6 @@
 require 'pry'
 
-def method
+def test
   a = 'a'
   array = [1,2]
   array.each do
